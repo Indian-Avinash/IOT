@@ -1,5 +1,8 @@
 # IOT
-The MPU6050 consist 3-axis Accelerometer with Micro Electro Mechanical (MEMs) technology.
-It is used to detect angle of tilt or inclination along the X, Y and Z .
+I have posted my work on IOT Projects
 
-I have used accelerometer to get the x,y,z 
+Here you can find the basic and advanced sensor which i have worked on solving minor and major day to day issues.
+
+If you are looking to learn about IOT you can take my work as reference.
+
+For contact you can mail to budigeavinash382@gmail.com
